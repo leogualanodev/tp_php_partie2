@@ -1,0 +1,23 @@
+.patient {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;   
+    
+    
+}
+
+.menu  {
+    border: 1px solid black;
+    text-align: center;
+    width: 33%;
+    margin: auto;
+    padding: 10px;
+}
+
+.info {
+    border: none;
+    text-align: center;
+    width: 25%;
+    margin: auto;
+    padding: 2px;
+}
